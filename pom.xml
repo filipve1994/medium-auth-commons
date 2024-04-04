@@ -19,6 +19,10 @@
 	</properties>
 
 
+	<!--
+	The <distributionManagement> section in the Maven pom.xml file specifies 
+	where project artifacts should be deployed (published).
+	-->
 	<distributionManagement>
 		<repository>
 			<id>github</id>
