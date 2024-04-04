@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.medium</groupId>
 	<artifactId>medium-auth-commons</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>medium-auth-commons</name>
 	<packaging>jar</packaging>
 	<description>auth lib for all spring boot projects</description>
